@@ -1,4 +1,4 @@
-const BASE_URL = "https://github.com/j-asafe/AppPlanetsDB.git"; // <-- mudar aqui para sua API 
+const BASE_URL = "https://api.jikan.moe/v4/seasons/upcoming"; // <-- mudar aqui para sua API 
  
 // Função para listar todos os itens
 async function getItems() {
